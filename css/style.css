@@ -7,18 +7,18 @@
 
 body{
     color: beige;
-    background: beige;  
+    background: #333;
 }
 
 .container{
     padding: 25px 50px;
-    margin: 0 auto;
+    margin: 50px auto;
     width: 80%;
     background: orange;
     border-radius: 10px;
 }
 
-header, main, footer{
+.header, .main, .footer{
     width: 80%;
     padding: 50px;
     margin: 25px 10%;
