@@ -11,7 +11,7 @@ body{
 }
 
 .container{
-    padding: 50px;
+    padding: 25px 50px;
     margin: 0 auto;
     width: 80%;
     background: orange;
@@ -19,15 +19,11 @@ body{
 }
 
 header, section, footer{
-    padding: 50px;
-    margin: 0 auto;
     width: 80%;
+    padding: 50px;
+    margin: 25px auto;
     background: #333;
     border-radius: 10px;
-}
-
-section{
-    margin: 50px 0 50px;
 }
 
 h1{
