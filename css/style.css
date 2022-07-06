@@ -26,6 +26,10 @@ header, section, footer{
     border-radius: 10px;
 }
 
+section{
+    margin: 50px 0;
+}
+
 h1{
     margin: 0;
     padding: 0px;
