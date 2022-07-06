@@ -18,7 +18,7 @@ body{
     border-radius: 10px;
 }
 
-header, section, footer{
+header, div, footer{
     width: 80%;
     padding: 50px;
     margin: 25px auto;
