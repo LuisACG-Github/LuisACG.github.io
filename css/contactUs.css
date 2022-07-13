@@ -195,9 +195,15 @@ body{
 	}
 
 	.loginForm input[type="text"],
-	.loginForm input[type="password"]{
+	.loginForm input[type="password"],
+	.loginForm textarea{
 		width: 50%;
 		margin: 20px 25% 0; 
+	}
+
+	.loginForm textarea{
+		max-height: 100px;
+		max-width: 100%;
 	}
 
 	.loginForm button{
@@ -208,7 +214,8 @@ body{
 
 @media screen and (max-width: 700px){
 	.loginForm input[type="text"],
-	.loginForm input[type="password"]{
+	.loginForm input[type="password"],
+	.loginForm textarea{
 		width: 100%; 
 		margin: 20px 0% 0;
 	}
