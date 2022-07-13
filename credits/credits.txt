@@ -1,0 +1,12 @@
+<!-- ICON
+	<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+-->
+<!-- BACKGROUND LOGIN
+	<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@iabzd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iabzd</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en </font></font><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a></span>
+-->
+<!-- BACKGROUND CREATE ACCOUNT
+	<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@mikitayo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mikita Yo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en </font></font><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a></span>
+-->
+<!-- BACKGROUND INDEX
+	<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matthew Henry</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en </font></font><a href="https://unsplash.com/collections/219941/architecture%2C-buildings%2C-spaces?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a></span>
+-->
