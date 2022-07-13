@@ -63,3 +63,9 @@ body{
 	border: 2px solid #33BED1;
 	margin-top: 20px;
 }
+
+@media screen and (max-width: 700px){
+	.topLetter{
+		font-size: 70px;
+	}
+}
