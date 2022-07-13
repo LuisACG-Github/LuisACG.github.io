@@ -13,11 +13,19 @@ body{
 	clear: both;
 }
 
-.generalCont{
+/*).generalCont{
 	width: 100vw;
 	height: 100vh;
 	padding: 0;
 	background-image: url(../img/index.jpg);
+	background-size: cover;
+}*/
+
+.generalCont{
+	width: 100vw;
+	height: 100vh;
+	padding: 0;
+	background-image: url(https://images.unsplash.com/photo-1612561869417-00aff351cc26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80);
 	background-size: cover;
 }
 

@@ -114,11 +114,15 @@ body{
 	text-decoration: none;
 }
 
+.createAccount-LogIn hr{
+	margin: 20px 0;
+}
+
 .rightContCreateAccount{
 	width: 75%;
 	height: 100%;
 	float: left;
-	background-image: url(../img/createAccount.jpg);
+	background-image: url(https://images.unsplash.com/photo-1612723354138-da7772774cd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80);
 	background-size: 100% 100%;
 }
 
@@ -126,7 +130,7 @@ body{
 	width: 75%;
 	height: 100%;
 	float: left;
-	background-image: url(../img/logIn.jpg);
+	background-image: url(https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
 	background-size: 100% 100%;
 }
 

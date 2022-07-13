@@ -74,6 +74,18 @@ body{
 	border-radius: 5px;
 }
 
+.loginForm textarea{
+	width: 100%;
+	padding: 10px;
+	margin-top: 20px;
+	border: rgba(0, 0, 0, .5) solid 2px;
+	background: none;
+	color: rgba(0, 0, 0, .5);
+	border-radius: 5px;
+	max-width: 100%;
+	max-height: 200px;
+}
+
 .loginForm button{
 	width: 50%;
 	padding: 5px;
@@ -114,29 +126,18 @@ body{
 	text-decoration: none;
 }
 
-.rightContCreateAccount{
-	width: 75%;
-	height: 100%;
-	float: left;
-	background-image: url(../img/createAccount.jpg);
-	background-size: 100% 100%;
-}
-
-.rightContLogIn{
-	width: 75%;
-	height: 100%;
-	float: left;
-	background-image: url(../img/logIn.jpg);
-	background-size: 100% 100%;
+.createAccount-LogIn hr{
+	margin: 20px 0;
 }
 
 .rightContContactUs{
 	width: 75%;
 	height: 100%;
 	float: left;
-	background-image: url(../img/contactUs.jpg);
+	background-image: url(https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
 	background-size: 100% 100%;
 }
+
 
 .gradientCont{
 	width: 100%;
@@ -162,6 +163,12 @@ body{
 	color: #e7e7de;
 	font-size: 50px;
 }
+
+/*.bottomLetter-LACG{
+	color: #e7e7de;
+	font-size: 30px;
+	padding: 10px;
+}*/
 
 /*Adaptación*/
 
