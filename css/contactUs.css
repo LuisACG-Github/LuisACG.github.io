@@ -83,7 +83,7 @@ body{
 	color: rgba(0, 0, 0, .5);
 	border-radius: 5px;
 	max-width: 100%;
-	max-height: 200px;
+	max-height: 100px;
 }
 
 .loginForm button{
